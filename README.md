@@ -1,2 +1,3 @@
 # Chess-Force-CNN-Dataset
-Dataset for Chess-Force-CNN repository.
+
+- Dataset for [https://github.com/fenilgmehta/Chess-Force-CNN](https://github.com/fenilgmehta/Chess-Force-CNN)
